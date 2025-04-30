@@ -1,0 +1,1 @@
+This project is a desktop-based Hospital Management System built using Python's Tkinter library for the graphical user interface and SQLite for the backend database. It allows users (such as hospital staff) to efficiently manage patient 
